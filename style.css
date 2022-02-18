@@ -1,0 +1,55 @@
+.first-div {
+  border: 10px solid black;
+  height: 200px;
+  width: 200px;
+  background-color: rebeccapurple;
+}
+.second-div {
+  border: 5px solid black;
+  height: 200px;
+  width: 200px;
+  background-color: aqua;
+  margin-left: 218px;
+}
+.third-div {
+  border: 3px solid black;
+  height: 200px;
+  width: 200px;
+  background-color: brown;
+  margin-left: 427px;
+}
+h1 {
+  color: blue;
+  text-align: center;
+}
+.outer-div {
+  width: 500px;
+  height: 500px;
+  border: 2px solid black;
+  background-color: aqua;
+  position: relative;
+  left: 500px;
+}
+.inner-div {
+  width: 300px;
+  height: 300px;
+  border: 2px solid black;
+  background-color: chocolate;
+  position: relative;
+  left: 100px;
+  top: 50px;
+}
+.outer {
+  width: 500px;
+  height: 500px;
+  border: 2px solid black;
+  background-color: rgb(154, 179, 15);
+}
+.inner {
+  width: 300px;
+  height: 300px;
+  border: 2px solid black;
+  background-color: rgb(6, 212, 75);
+  position: absolute;
+  left: 200px;
+}
